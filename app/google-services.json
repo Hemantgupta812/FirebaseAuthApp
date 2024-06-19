@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083174121798",
+    "project_id": "fir-authapp-73f66",
+    "storage_bucket": "fir-authapp-73f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083174121798:android:f2f7e4efd126d59752f547",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6qg9hV8TOhPPQFqtG6Yq-pT2A0EWQYyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
